@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-todos/static/css/main.47c09e5e.css",
+    "main.js": "/react-todos/static/js/main.cb16983c.js",
+    "static/media/platzi.webp": "/react-todos/static/media/platzi.5b31ce99c22184cfdc82.webp",
+    "index.html": "/react-todos/index.html",
+    "static/media/delete.svg": "/react-todos/static/media/delete.67697f56fd2f149bc9515a879062ad5c.svg",
+    "static/media/check.svg": "/react-todos/static/media/check.23109d14544b9bb9b3d5d4e65ea13701.svg",
+    "main.47c09e5e.css.map": "/react-todos/static/css/main.47c09e5e.css.map",
+    "main.cb16983c.js.map": "/react-todos/static/js/main.cb16983c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47c09e5e.css",
+    "static/js/main.cb16983c.js"
+  ]
+}
